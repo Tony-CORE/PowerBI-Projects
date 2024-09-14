@@ -45,10 +45,6 @@ This repository contains a Power BI dashboard created using UK bank customer dat
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to include a description of the modifications and any relevant details.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The dataset used in this dashboard was sourced from https://www.kaggle.com/datasets/ukveteran/uk-bank-customers.
