@@ -23,11 +23,11 @@ This repository contains a Power BI dashboard created using UK bank customer dat
 1. **Download Power BI Desktop**:
 
 2. **Go to the Power BI Desktop download page**.
-   
+   - https://www.microsoft.com/en-us/download/details.aspx?id=58494
    - Click the Download button.
    - Install Power BI Desktop:
 
-3. **Once the download is complete, open the installer file (.exe)**.
+4. **Once the download is complete, open the installer file (.exe)**.
    
    - Follow the on-screen instructions to complete the installation.
 
