@@ -42,8 +42,7 @@ This repository contains a Power BI dashboard created using UK bank customer dat
 - `README.md`: This file.
 
 ### Screenshot
-![image](https://github.com/user-attachments/assets/a1e0e435-507f-4122-b333-b810ef7d654c)
-
+![image](https://github.com/user-attachments/assets/9a729b7e-3694-4f86-98cf-8fec55d23957)
 
 ## Contribution
 
