@@ -17,15 +17,15 @@ This repository contains a Power BI dashboard created using UK bank customer dat
 
 ### Prerequisites
 
-- ##Power BI Desktop: Ensure you have Power BI Desktop installed to open and interact with the .pbix file. Follow these steps to install Power BI Desktop:
+## Power BI Desktop: Ensure you have Power BI Desktop installed to open and interact with the .pbix file. Follow these steps to install Power BI Desktop:
 
-1. ##Download Power BI Desktop:
+1. ## Download Power BI Desktop:
 
-2. ##Go to the Power BI Desktop download page.
+2. ## Go to the Power BI Desktop download page.
 Click the Download button.
 Install Power BI Desktop:
 
-3. ##Once the download is complete, open the installer file (.exe).
+3. ## Once the download is complete, open the installer file (.exe).
 Follow the on-screen instructions to complete the installation.
 
 After installation, open Power BI Desktop from your Start menu or desktop shortcut.
