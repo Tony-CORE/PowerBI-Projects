@@ -17,7 +17,18 @@ This repository contains a Power BI dashboard created using UK bank customer dat
 
 ### Prerequisites
 
-- **Power BI Desktop**: Ensure you have Power BI Desktop installed to open and interact with the .pbix file.
+- **Power BI Desktop: Ensure you have Power BI Desktop installed to open and interact with the .pbix file. Follow these steps to install Power BI Desktop:
+
+1. **Download Power BI Desktop:
+
+2. **Go to the Power BI Desktop download page.
+Click the Download button.
+Install Power BI Desktop:
+
+3. **Once the download is complete, open the installer file (.exe).
+Follow the on-screen instructions to complete the installation.
+
+After installation, open Power BI Desktop from your Start menu or desktop shortcut.
 - **UK Bank Customer Data**: The dashboard is built using the provided dataset. Make sure you have the same data format for the dashboard to function correctly.
 
 ### How to Use
@@ -37,8 +48,8 @@ This repository contains a Power BI dashboard created using UK bank customer dat
 
 ## Files
 
-- `UK_Bank_Customer_Dashboard.pbix`: The Power BI dashboard file.
-- `Data/`: Folder containing the raw data used in the dashboard.
+- `Customer Analysis Bank.pbix`: The Power BI dashboard file.
+- `P6-UK-Bank-Customers`: The raw data used in the dashboard.
 - `README.md`: This file.
 
 ### Screenshot
